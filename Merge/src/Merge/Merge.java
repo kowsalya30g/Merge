@@ -9,6 +9,7 @@ public class Merge {
 		int a = 50;
 		int b = 43;
 		System.out.println("a+b");
+		System.out.println("hello");
 	}
 
 }
