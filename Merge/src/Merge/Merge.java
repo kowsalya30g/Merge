@@ -5,6 +5,7 @@ public class Merge {
 	{
 		System.out.println("Hello merge conflict");
 		System.out.println("WELCOME TO POSSIBLE");
+		System.out.println("hiii");
 	}
 
 }
